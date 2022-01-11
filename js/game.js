@@ -1,7 +1,6 @@
 class Game {
   constructor() {
-    this.leftKeyActive = false;
-    this.blast = false;
+    
   }
  
   getState() {
